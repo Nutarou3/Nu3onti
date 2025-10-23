@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightText: 2025 Gen109
+# SPDX-fileCopyrightText: 2025 Gen109
 import sys
 
 ans = 0  # もともと0.0だったのを0に変更
